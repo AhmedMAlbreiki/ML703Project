@@ -15,5 +15,6 @@ https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity
 
 Download the pretrained weights into ML702Project folder 
 
-Weights Link\n
+Weights Link
+
 https://mbzuaiac-my.sharepoint.com/:f:/g/personal/ahmed_albreiki_mbzuai_ac_ae/Ehy9Z-iq95BPhtPwTLHZ2NMBNn2sB6X9HIEPqItukvOWDA?e=kct4AP
