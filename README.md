@@ -1,4 +1,4 @@
-# ML702Project
+# ML703 Project
 Person Authentication from Behavioral Biometrics Using Smartphone and Smartwatch Sensors
 
 Team Members:
